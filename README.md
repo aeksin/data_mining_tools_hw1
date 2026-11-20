@@ -1,7 +1,6 @@
 # Frame matching
 
 Matching frames from two cameras based on the closest timestamps.
-Реализации: AArch64 assembly, c, numba, многопоточный NumPy.
 
 Implementations: AArch64 assembly, C, Numba, and multi-threaded NumPy.
 
